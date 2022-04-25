@@ -1,0 +1,58 @@
+The Essex Arabic Summaries Corpus (EASC)
+
+February 2010
+
+The EASC is an Arabic natural language resources. It contains 153
+arabic articles and 765 human-generated extractive summaries of those
+articles. These summaries were generated using Mechanical Turk
+(http://www.mturk.com/).  
+
+The instructions given to the human summarisers, and the data that
+they returned, were as follows.
+
+______________________________________________________________________
+
+Arabic Extractive Text Summarization
+ 
+The following are sentences from an article written in Arabic:
+Your task is to do the following:
+
+1. Read the Arabic sentences (Document) 
+2. In the first text box below type the number of sentences that you
+   think are focusing on the main idea of the document.
+3. The number of the selected sentences should not exceed 50% of the
+   articles' sentences, for example if there are 5 sentences you can
+   only chose up to 2 sentences.
+4. Just add the numbers of the sentences; please do not write text in
+   the first text box. For example (1,2,4).
+5. In the second text box write down one to three Keyword(s) (Arabic
+   or English) that represent the main idea of the documents, or
+   keywords that can be used as title for the article, don't exceed 3
+   keywords.
+6. If you have any comments please add them to the third text box
+   below.
+
+Failing to follow the guides correctly could lead to task rejection 
+______________________________________________________________________
+
+ <TEXT OF ARTICLE>
+______________________________________________________________________
+
+ <TEXT BOXES FOR RESPONSES:>
+  [SENTENCE NUMBERS] 
+  [KEYWORDS]  
+  [COMMENTS]
+______________________________________________________________________
+
+
+The EASC uses copyright material. Details of the terms of the
+applicable copyrights are described in the file COPYRIGHT that
+accompanies this resource.  The sources of the documents are listed in
+the SOURCES.CSV file (encoded with UTF-8).
+
+The EASC was created by Mahmoud El-Haj <melhaj@essex.ac.uk>, under the
+supervision of Dr Udo Kruschwitz <udo@essex.ac.uk> and Dr Chris Fox
+<foxcj@essex.ac.uk>.  
+
+School of Computer Science and Electronic Engineering, University of
+Essex, Wivenhoe Park, Colchester, Essex CO4 3SQ, United Kingdom.
