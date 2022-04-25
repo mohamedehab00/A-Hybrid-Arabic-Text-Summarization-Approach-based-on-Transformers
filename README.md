@@ -16,6 +16,15 @@ We add some features to our summary to make it more understandable by applying t
   <li>NADA Corpus ( Text Classification Dataset )</li>
 </ul>
 
+### Provided Models :
+<ul>
+  <li>Classical SVM Model with a Grid Search Optimzation Approach</li>
+  <li>Extractive Bert Model : <a href="https://github.com/abdullah-abunada/bert-extractive-summarizer">Model Source</a></li>
+  <li>Abstractive mt5 Model : <a href="https://huggingface.co/csebuetnlp/mT5_multilingual_XLSum">Model Source</a></li>
+  <li>Meta Data Extraction Model : <a href="https://huggingface.co/marefa-nlp/marefa-ner">Model Source</a></li>
+</ul>
+
+
 ### Running The Project :
 
 ### Contributers :
