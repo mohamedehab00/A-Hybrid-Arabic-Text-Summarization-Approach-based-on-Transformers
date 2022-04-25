@@ -22,13 +22,83 @@ We add some features to our summary to make it more understandable by applying t
 
 ### Contributers :
 <ul>
-  <li>Mohamed Ehab</li>
-  <li>Ameen Reda</li>
-  <li>John Adel</li>
-  <li>Ismail Ahmed</li>
-  <li>Mostafa Kafafy</li>
-  <li>Nada Salah</li>
-  <li>Dr. Ghada Khoriba</li>
+  <li>
+    <div id="badges">
+      <span><b>Mohamed Ehab</b> </span>
+      <a href="https://www.linkedin.com/in/mohamedehab00/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
+      <a href="https://github.com/mohamedehab00">
+        <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+      </a>
+    </div>
+  </li>
+ <li>
+    <div id="badges">
+      <span>Ameen Reda </span>
+      <a href="https://www.linkedin.com/in/mohamedehab00/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
+      <a href="https://github.com/AmeenReda1">
+        <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+      </a>
+    </div>
+  </li>
+  <li>
+    <div id="badges">
+      <span>Ismail Ahmed </span>
+      <a href="https://www.linkedin.com/in/mohamedehab00/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
+      <a href="https://github.com/ismail-1998">
+        <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+      </a>
+    </div>
+  </li>
+  <li>
+    <div id="badges">
+      <span>John Adel </span>
+      <a href="https://www.linkedin.com/in/mohamedehab00/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
+      <a href="https://github.com/JohnAdel147">
+        <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+      </a>
+    </div>
+  </li>
+  <li>
+    <div id="badges">
+      <span>Mostafa Kafafy </span>
+      <a href="https://www.linkedin.com/in/mohamedehab00/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
+      <a href="https://github.com/kafafy01">
+        <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+      </a>
+    </div>
+  </li>
+  <li>
+    <div id="badges">
+      <span>Nada Salah </span>
+      <a href="https://www.linkedin.com/in/mohamedehab00/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
+      <a href="https://github.com/nadasalah99">
+        <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+      </a>
+    </div>
+  </li>
+  <li>
+    <div id="badges">
+      <span>Assoc. Prof. Ghada Khoriba </span>
+      <a href="https://www.linkedin.com/in/mohamedehab00/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
+      <a href="https://github.com/DrGhadaAhmed">
+        <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+      </a>
+    </div>
+  </li>
 </ul>
 
 <div>
