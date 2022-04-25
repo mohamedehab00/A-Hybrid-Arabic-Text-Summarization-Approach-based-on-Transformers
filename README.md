@@ -8,8 +8,12 @@ We add some features to our summary to make it more understandable by applying t
 
 ### IEEE Paper Link : [IEEE Paper]()
 
-### Proposed Model :
-![A3SUT model](https://i.ibb.co/x3rvRqR/model.jpg "A3SUT model")
+### Proposed Approach :
+
+<div align="center">
+  <h3>Our Approach Diagram</h3>
+  <img src="https://i.ibb.co/x3rvRqR/model.jpg" alt="A3SUT model" width = "900px"/>
+</div>
 
 ### Data Provided in Data Folder :
 <ul>
@@ -117,5 +121,5 @@ We add some features to our summary to make it more understandable by applying t
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 <div>
-  <h2 align="center">Feel Free to Contact us</h2>
+  <h2 align="center">Feel Free to Contact us ❤️</h2>
 </div>
