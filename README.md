@@ -52,7 +52,7 @@ We add some features to our summary to make it more understandable by applying t
   <tr>
     <td class="tg-0pky">Mohamed Ehab</td>
     <td class="tg-dvpl">
-      <a href="https://www.linkedin.com/in/mohamedehab00/">
+      <a href="https://www.linkedin.com/in/mohamedehab00/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
     </td>
