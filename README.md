@@ -37,7 +37,7 @@ We add some features to our summary to make it more understandable by applying t
 > This notebook is the main notebook which loads all of the models (Text Classification model, Extractive Bert model, Abstractive mt5 model, A3SUT (our hybrid model) and Meta Data Extraction model).
 > All outputs are in the Models output section (the last section in MainProject.ipynb).
 
-### Contributers :
+### Thanks to all project contributors :
 
 <table class="tg">
 <thead>
