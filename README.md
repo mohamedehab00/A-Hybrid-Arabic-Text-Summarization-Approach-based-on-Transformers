@@ -38,85 +38,132 @@ We add some features to our summary to make it more understandable by applying t
 > All outputs are in the Models output section (the last section in MainProject.ipynb).
 
 ### Contributers :
-<ul>
-  <li>
-    <div id="badges">
-      <span><b>Mohamed Ehab</b> </span>
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky"><span style="font-weight:bold;font-style:italic">Contributer Name</span></th>
+    <th class="tg-dvpl"><span style="font-weight:bold">LinkedIn</span></th>
+    <th class="tg-0lax"><span style="font-weight:bold">GitHub</span></th>
+    <th class="tg-0lax"><span style="font-weight:bold">E-mail</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Mohamed Ehab</td>
+    <td class="tg-dvpl">
       <a href="https://www.linkedin.com/in/mohamedehab00/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
+    </td>
+    <td class="tg-0lax">
       <a href="https://github.com/mohamedehab00">
         <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
       </a>
-    </div>
-  </li>
- <li>
-    <div id="badges">
-      <span>Ameen Reda </span>
+    </td>
+    <td class="tg-0lax">
+      <a href = "mailto: mohamed.ehab31450@gmail.com">Send Email</a>
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Ameen Reda</td>
+    <td class="tg-dvpl">
       <a href="https://www.linkedin.com/in/ameen-reda-1b832a184/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
+    </td>
+    <td class="tg-0lax">
       <a href="https://github.com/AmeenReda1">
         <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
       </a>
-    </div>
-  </li>
-  <li>
-    <div id="badges">
-      <span>Ismail Ahmed </span>
+    </td>
+    <td class="tg-0lax">
+      <a href = "mailto: ameenreda1@gmail.com">Send Email</a>
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Ismail Ahmed</td>
+    <td class="tg-dvpl">
       <a href="https://www.linkedin.com/in/ismail-ahmed-54a549195/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
+    </td>
+    <td class="tg-0lax">
       <a href="https://github.com/ismail-1998">
         <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
       </a>
-    </div>
-  </li>
-  <li>
-    <div id="badges">
-      <span>John Adel </span>
+    </td>
+    <td class="tg-0lax">
+      <a href = "mailto: ismail.rammer@gmail.com">Send Email</a>
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">John Adel</td>
+    <td class="tg-0lax">
       <a href="https://www.linkedin.com/in/john-adel-18938a1b3/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
+    </td>
+    <td class="tg-0lax">
       <a href="https://github.com/JohnAdel147">
         <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
       </a>
-    </div>
-  </li>
-  <li>
-    <div id="badges">
-      <span>Mostafa Kafafy </span>
+    </td>
+    <td class="tg-0lax">
+      <a href = "mailto: Mostafa0522magdy@gmail.com">Send Email</a>
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Mostafa Kafafy</td>
+    <td class="tg-0lax">
       <a href="https://www.linkedin.com/in/mostafakafafy0/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
+    </td>
+    <td class="tg-0lax">
       <a href="https://github.com/kafafy01">
         <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
       </a>
-    </div>
-  </li>
-  <li>
-    <div id="badges">
-      <span>Nada Salah </span>
+    </td>
+    <td class="tg-0lax">
+      <a href = "mailto: Mostafa0522magdy@gmail.com">Send Email</a>
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Nada Salah</td>
+    <td class="tg-0lax">
       <a href="https://www.linkedin.com/in/nada-salah-2725301a4/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
+    </td>
+    <td class="tg-0lax">
       <a href="https://github.com/nadasalah99">
         <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-      </a>
-    </div>
-  </li>
-  <li>
-    <div id="badges">
-      <span>Assoc. Prof. Ghada Khoriba </span>
+      </a> 
+    </td>
+    <td class="tg-0lax">
+      <a href = "mailto: nada191.ns@gmail.com">Send Email</a>
+    </td>
+  </tr>
+ 
+  <tr>
+    <td class="tg-0lax">Assoc. Prof. Ghada Khoriba</td>
+    <td class="tg-0lax">
       <a href="https://www.linkedin.com/in/ghada-khoriba-090b72113/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
+    </td>
+    <td class="tg-0lax">
       <a href="https://github.com/DrGhadaAhmed">
         <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
       </a>
-    </div>
-  </li>
-</ul>
+    </td>
+    <td class="tg-0lax">
+      <a href = "mailto: ghada.khoriba@acu.edu.eg">Send Email</a>
+    </td>
+  </tr>
+</tbody>
+</table>
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
