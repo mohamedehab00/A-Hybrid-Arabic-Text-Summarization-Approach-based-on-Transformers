@@ -43,7 +43,7 @@ We add some features to our summary to make it more understandable by applying t
  <li>
     <div id="badges">
       <span>Ameen Reda </span>
-      <a href="https://www.linkedin.com/in/ameen-reda-1b832a184/">
+      <a href="https://www.linkedin.com/in/ameen-reda-1b832a184/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
       <a href="https://github.com/AmeenReda1">
