@@ -130,7 +130,7 @@ We add some features to our summary to make it more understandable by applying t
     </td>
   </tr>
   <tr>
-    <td class="tg-0lax">Nzda zalah</td>
+    <td class="tg-0lax">Nada Salah</td>
     <td class="tg-0lax">
       <a href="https://www.linkedin.com/in/nada-salah-2725301a4/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
