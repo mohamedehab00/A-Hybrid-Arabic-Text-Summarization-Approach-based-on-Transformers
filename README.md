@@ -162,6 +162,23 @@ We add some features to our summary to make it more understandable by applying t
       <a href = "mailto: ghada.khoriba@acu.edu.eg">Send Email</a>
     </td>
   </tr>
+  
+  <tr>
+    <td class="tg-0lax">Assoc. Prof. Enssaf Hussien</td>
+    <td class="tg-0lax">
+      <a href="https://www.linkedin.com/in/ensaf-hussein-7b257492/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
+    </td>
+    <td class="tg-0lax">
+      <a href="https://github.com/enssaf">
+        <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+      </a>
+    </td>
+    <td class="tg-0lax">
+      <a href = "mailto: ensaf_hussein@fci.helwan.edu.eg">Send Email</a>
+    </td>
+  </tr>
 </tbody>
 </table>
 
