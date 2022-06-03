@@ -6,7 +6,7 @@
 In this paper, we proposed a sequential hybrid model based on a transformer to summarize Arabic articles. We used two approaches of summarization to make our model. The First is the extractive approach which depends on the most important sentences from the articles to be the summary, so we used Deep Learning techniques specifically transformers such as AraBert to make our summary, The second is abstractive, and this approach is similar to human summarization, which means that it can use some words which have the same meaning but different from the original text. We apply this kind of summary using MT5 Arabic pre-trained transformer model. We sequentially applied these two summarization approaches to building our A3SUT hybrid model. The output of the extractive module is fed into the abstractive module. We enhanced the summary’s quality to be closer to the human summary by applying this approach. 
 We add some features to our summary to make it more understandable by applying the metadata generation task "data about data" and classification. By applying metadata generation, we add facilities to our summary, identification, and summary organization.
 
-### IEEE Paper Link : [IEEE Paper]()
+### IEEE Paper Link : [IEEE Paper](https://ieeexplore.ieee.org/document/9781694)
 
 ### Proposed Approach :
 
